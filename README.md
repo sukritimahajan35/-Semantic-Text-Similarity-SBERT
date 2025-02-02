@@ -1,7 +1,7 @@
 # -Semantic-Text-Similarity-SBERT
 This project explores semantic text similarity, clustering, and query-based retrieval using Sentence-BERT (SBERT). It processes the SNLI dataset, extracts sentence embeddings, and applies ML techniques for analysis. Features include cosine similarity, K-Means clustering, PCA visualization, and diverse query-based retrieval.
 
-Key Features
+**Key Features**
 🔹 Dataset Preprocessing
 Loaded the SNLI dataset and extracted premises, hypotheses, and labels.
 Removed missing values and performed class balancing using resampling techniques.
